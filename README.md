@@ -19,4 +19,6 @@ Cyber Threat Intelligence Capability Maturity Model (CTI-CMM)
 - Project page: https://cti-cmm.org/
 - Tool: (Beta) https://cti-cmm.org/beta-assessment-tool
 
+Extortion group maturity model
+- Project: https://www.accenture.com/us-en/blogs/security/new-model-understanding-extortion-groups 
 ... to be continued
